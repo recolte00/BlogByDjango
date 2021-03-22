@@ -1,0 +1,19 @@
+●app admin
+user: yanagi
+email: aaa@bbb.com
+pass: django1234
+
+●super user
+user: ubuntu
+email: aaa@bbb.com
+pass: django1234
+
+●postgres user
+mybl
+pass
+
+●Ubuntu
+virtualenv取得方法
+sudo apt install virtualenv
+virtualenv python3 NAME_OF_VE #仮想環境作成
+source NAME_OF_VE/bin/activate #起動
